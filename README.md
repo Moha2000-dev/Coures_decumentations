@@ -18,7 +18,7 @@ This repository contains essential information about the **Software Development 
  **Reference Folder:** `Software Development Life Cycle/`
 
  **Diagram:**
-![SDLC Phases](photos/1.SDLC.png)
+![SDLC Phases](photos/1.SDLC.png )
 
 ---
 
@@ -89,7 +89,7 @@ $ git push -u origin main
  **Reference Folder:** `web development stacks/`
 
  **Full-Stack Development Diagram:**
-![Full Stack Dev](photos/full_stack_dev.jpg)
+![Full Stack Dev](photos/fullstakdev.jpg)
 
 ---
 
