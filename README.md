@@ -91,21 +91,4 @@ $ git push -u origin main
  **Full-Stack Development Diagram:**
 ![Full Stack Dev](photos/fullstakdev.jpg)
 
----
 
-##  How to Use This Repository
-- Browse through the **folders** for detailed explanations.
-- Check the **photos** folder for diagrams and visuals.
-- Clone this repo and explore the Git version control system.
-
-```bash
-# Clone the repo
-$ git clone https://github.com/yourusername/SDLC-Agile-Git-Web.git
-
-# Navigate into the folder
-$ cd SDLC-Agile-Git-Web
-
-# Open in VS Code
-$ code .
-```
----
