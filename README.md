@@ -18,7 +18,7 @@ This repository contains essential information about the **Software Development 
  **Reference Folder:** `Software Development Life Cycle/`
 
  **Diagram:**
-![SDLC Phases](photos/1.SDLC.png )
+![SDLC Phases](photos/p1.png )
 
 ---
 
