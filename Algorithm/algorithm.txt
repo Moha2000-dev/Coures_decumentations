@@ -1,0 +1,41 @@
+sum(c,s)
+  z=c+s
+  return z 
+ end algorithm 
+
+
+fractorial
+   n
+ init 1 
+  for y in n
+     init = init*n
+   
+
+    returen init 
+ end algorithm
+
+
+
+bigest number 
+    use bubles sort 
+    print the frist number 
+ end algorithm
+
+
+
+  Count the Number of Vowels in a String
+  creat list of letters {'a', 'e', 'i', 'o', or 'u'}
+  set count =0 
+  for  combear the frist liter from the input with each liter in it then 
+   incrweas the count with one 
+  print the count 
+end of the alogrithem 
+
+
+
+Reverse a String
+but the in out in the list 
+get the list lingth 
+read this list from the end by length-1 
+print each time the liter 
+end of the alogrithem 
