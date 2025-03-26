@@ -111,23 +111,23 @@ final_readme_content = f"""
 A basic style where the program is listed step by step.  
 Example: Making a cheese sandwich.
 
-![Procedural Programming]({updated_image_paths["pp1"]})
+![Procedural Programming](photos/pp1.png)
 
 ### 2. Object-Oriented Programming (OOP)
 You create objects like a cat. Each object has data (color, type, eye color) and actions (jump, run, speak).  
 Helps in reusing code and organizing large systems.
 
-![Object-Oriented Programming]({updated_image_paths["pp2"]})
+![Object-Oriented Programming](photos/pp2.png)
 
 ### 3. Functional Programming
 Like a vending machine. You give input → get output. No memory, no change in internal state.
 
-![Functional Programming]({updated_image_paths["pp3"]})
+![Functional Programming](photos/pp3.png)
 
 ### 4. Logic Programming
 You give facts and rules. The computer uses logic to answer questions.
 
-![Logic Programming]({updated_image_paths["pp4"]})
+![Logic Programming](photos/pp4.png)
 
 ## Comparison Table
 
@@ -154,7 +154,7 @@ An **Algorithm** is a set of steps to solve a problem.
 - **Finiteness**: Must end
 - **Effectiveness**: Easy to do by a person or computer
 
-![Algorithm Components]({updated_image_paths["pp5"]})
+![Algorithm Components](photos/pp5.png)
 
 ---
 
@@ -181,7 +181,7 @@ An **Algorithm** is a set of steps to solve a problem.
 - Mix of both
 - Examples: Java, C#
 
-![Types of Programming Languages]({updated_image_paths["pp6"]})
+![Types of Programming Languages](photos/pp6.png)
 
 ---
 
@@ -199,13 +199,5 @@ An **Algorithm** is a set of steps to solve a problem.
 - **Compiler**: Print full essay at once  
 - **Interpreter**: Read it out loud line by line
 
-![Compiler vs Interpreter]({updated_image_paths["pp7"]})
+![Compiler vs Interpreter](photos/pp7.png)
 """
-
-# Save the final GitHub-style README
-final_readme_path = "/mnt/data/README_GITHUB_STYLE.md"
-with open(final_readme_path, "w", encoding="utf-8") as f:
-    f.write(final_readme_content)
-
-final_readme_path
-
